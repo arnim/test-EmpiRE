@@ -1,0 +1,10 @@
+ipykernel
+ipympl
+ipywidgets
+SPARQLWrapper
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+dataframe_image
